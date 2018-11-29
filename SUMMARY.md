@@ -1,6 +1,7 @@
 # Table of contents
 
 * [What's command you want?](README.md)
+* [Tags](tags.md)
 
 ## Linux
 
@@ -13,5 +14,3 @@
 ## AWS
 
 * [Delete CloudWatch Log Streams](aws/delete-cloudwatch-log-streams.md)
-
-* [Tags](tags.md)
