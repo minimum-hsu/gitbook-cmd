@@ -1,5 +1,8 @@
 ---
-tags: ['aws', 'cloudwatch', 'awscli']
+tags:
+  - aws
+  - cloudwatch
+  - awscli
 ---
 
 # Delete CloudWatch Log Streams
@@ -26,3 +29,6 @@ export GROUP=<your log group>
 export PREFIX=<specified date, ex: 2018/01/01>
 aws --output text logs describe-log-streams --log-group-name $GROUP --log-stream-name-prefix $PREFIX --query logStreams[].logStreamName | xargs -n1 | xargs -I '{}' bash -c "aws logs delete-log-stream --log-group-name $GROUP --log-stream-name '{}'"
 ```
+
+tags: aws, awscli, cloudwatch
+

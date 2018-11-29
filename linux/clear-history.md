@@ -1,5 +1,7 @@
 ---
-tags: ['linux', 'bash']
+tags:
+  - linux
+  - bash
 ---
 
 # Clear History
