@@ -1,6 +1,6 @@
 # Table of contents
 
-* [What's command you want?](README.md)
+* [Introduction](README.md)
 * [Tags](tags.md)
 
 ## Linux
