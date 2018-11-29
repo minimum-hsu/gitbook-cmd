@@ -14,3 +14,6 @@
 
 * [Delete CloudWatch Log Streams](aws/delete-cloudwatch-log-streams.md)
 
+# Tags
+
+[Tags](tags.md)
