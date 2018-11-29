@@ -4,7 +4,7 @@
 
 ## Linux
 
-* [Clear History](linux/untitled.md)
+* [Clear History](linux/clear-history.md)
 
 ## Windows
 
@@ -14,6 +14,3 @@
 
 * [Delete CloudWatch Log Streams](aws/delete-cloudwatch-log-streams.md)
 
-# Tags
-
-[Tags](tags.md)
