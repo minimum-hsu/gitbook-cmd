@@ -1,3 +1,7 @@
+---
+tags: ['linux', 'bash']
+---
+
 # Clear History
 
 This command only clears your current shell history. After you exited, no history could be recorded before this command.
