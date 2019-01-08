@@ -15,3 +15,7 @@
 
 * [Delete CloudWatch Log Streams](aws/delete-cloudwatch-log-streams.md)
 
+## MAC
+
+* [Install Package Manager](mac/install-package-manager.md)
+
