@@ -12,7 +12,7 @@ This command only clears your current shell history. After you exited, no histor
 history -c
 ```
 
-If you want to clear all recorded history, you can remove ~/.bash\_history file, but there are still some commands to be recorded after you exited.
+If you want to clear all recorded history, you can remove `~/.bash_history` file, but there are still some commands to be recorded after you exited.
 
 ```bash
 rm ~/.bash_history

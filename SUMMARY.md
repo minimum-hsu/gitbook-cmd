@@ -6,6 +6,7 @@
 ## Linux
 
 * [Clear History](linux/clear-history.md)
+* [Config Vim](linux/config-vim.md)
 
 ## Windows
 
