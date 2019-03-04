@@ -9,7 +9,6 @@ git reset --hard origin/master
 Remove untracked files and folders
 
 ```text
-git clean -f
 git clean -f -d
 ```
 
