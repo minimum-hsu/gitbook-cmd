@@ -6,6 +6,14 @@ Config your vim
 vim ~/.vimrc
 ```
 
+For general:
+
+```text
+syntax on // text color
+set ruler // show line number
+set hlsearch // highlight search result
+```
+
 For Python PEP8:
 
 {% code-tabs %}
@@ -36,6 +44,8 @@ filetype plugin on
 Integration:
 
 ```text
+syntax on
+
 " Filetype - Python
 "" autocmd FileType python set shiftwidth=4 | set expandtab | set softtabstop=4 | set tabstop=4
 

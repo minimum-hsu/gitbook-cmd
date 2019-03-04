@@ -21,3 +21,7 @@
 
 * [Delete CloudWatch Log Streams](aws/delete-cloudwatch-log-streams.md)
 
+## Git
+
+* [Reset Local Repo to Origin](git/reset-local-repo-to-origin.md)
+
